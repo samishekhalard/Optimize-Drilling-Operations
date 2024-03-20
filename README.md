@@ -1,4 +1,4 @@
-#ROP Prediction and Analysis
+#ROP Prediction and Analysis 
 Developed a predictive model for ROP in drilling operations using machine learning techniques.
 Analyzed and visualized drilling data to identify trends and correlations.
 Implemented various data visualization techniques such as line plots, scatter plots, histograms, and heatmaps to understand the data distribution and relationships between variables.
